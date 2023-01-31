@@ -94,11 +94,6 @@ nav ul a{
 
 /* Experiencia Laboral */
 
-#experiencia{
-    display: none;
-    margin: 20px;
-}
-
 #experiencia h3{
     display: flex;
     justify-content: center;
@@ -109,12 +104,13 @@ nav ul a{
     margin-top: 10px;
 }
 
-/* Formación Académica */
-
-#formacion{
+#experiencia{
     display: none;
     margin: 20px;
 }
+
+
+/* Formación Académica */
 
 #formacion h3{
     display: flex;
@@ -126,16 +122,23 @@ nav ul a{
     margin-top: 10px;
 }
 
-/*Otros Conocimientos*/
-
-#otros-conocimientos{
+#formacion{
     display: none;
     margin: 20px;
 }
+
+
+/*Otros Conocimientos*/
 
 #otros-conocimientos h3{
     display: flex;
     justify-content: center;
     font-size: xx-large 
 }
+
+#otros-conocimientos{
+    display: none;
+    margin: 20px;
+}
+
 
