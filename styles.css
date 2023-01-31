@@ -41,9 +41,10 @@ nav ul a{
 
 #botones button{
     padding: 10px;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 300;
     background-color: antiquewhite;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    
 }
 
 
@@ -94,6 +95,7 @@ nav ul a{
 /* Experiencia Laboral */
 
 #experiencia{
+    display: none;
     margin: 20px;
 }
 
@@ -110,6 +112,7 @@ nav ul a{
 /* Formación Académica */
 
 #formacion{
+    display: none;
     margin: 20px;
 }
 
@@ -126,6 +129,7 @@ nav ul a{
 /*Otros Conocimientos*/
 
 #otros-conocimientos{
+    display: none;
     margin: 20px;
 }
 
